@@ -2,16 +2,6 @@
     .info-container{
         width: 100% !important;
     }
-
-    .info-container h2{
-        font-size: 2.5rem !important;
-        color: #00aeff !important;
-    }
-
-    .info-container p{
-        font-size: 2.0rem !important;
-        color: #fff !important;
-    }
     
 }
 
@@ -57,4 +47,14 @@ video{
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 10px;
+}
+
+.info-container h2{
+    font-size: 2.5rem !important;
+    color: #00aeff !important;
+}
+
+.info-container p{
+    font-size: 2.0rem !important;
+    color: #fff !important;
 }
