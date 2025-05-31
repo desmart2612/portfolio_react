@@ -14,7 +14,8 @@ function Developer(props) {
           <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 512 512"><path fill="none" stroke="#00aeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M249.38 336L170 256l79.38-80m-68.35 80H342" /><path fill="none" stroke="#650094" stroke-miterlimit="10" stroke-width="32" d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192s192-86 192-192Z" /></svg>
         </button>
       </section>
-      <video src='/video/vid_placeholder.mp4' loop autoPlay muted></video>
+      {/* <video src='/video/vid_placeholder.mp4' loop autoPlay muted></video> */}
+      <img src='/globe.jpg' alt='globe' />
       <div className='info-container'>
         <h2>Developers</h2>
         <p>Coming Soon!!!!</p>
